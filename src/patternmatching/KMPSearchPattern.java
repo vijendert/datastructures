@@ -2,7 +2,7 @@ package patternmatching;
 
 import java.util.Arrays;
 
-public class TempArrayPopulationForPattern {
+public class KMPSearchPattern {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
